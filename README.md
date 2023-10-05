@@ -1,10 +1,10 @@
-<h1>boas vindas ao meu perfil
+<h1><BOBSLEDDING / BOBSLEIGH./hi>
 
-<p>meu nome é <>Renan Ribeiro 
-
-estou estudando alura
-estou me desenvolvendo na linguagem Javascript
-utilizo esse espaço para minha organizaçao e compartilhamento dos meus projetos desenvolvidos 
+<p>gosto de esportes<>Renan Ribeiro</p>
+<p><em>volei<strong>nataçao </strong>,para aprender</em><p/>
+<p>estou me<strong> desenvolvendo na</strong> linguagem Javascript<p/>
+<p>utilizo esse espaço para<strong> minha organizaçao e compartilhamento dos meus projetos desenvolvidos 
 
 ##voce entrar
-<tag >
+<p>cada uma das atividades fsicas.</p>
+</html>
