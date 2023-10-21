@@ -2,9 +2,15 @@
 
 <p>gosto de esportes<>Renan Ribeiro</p>
 <p><em>volei<strong>nataçao </strong>,para aprender</em><p/>
-<p>estou me<strong> desenvolvendo na</strong> linguagem Javascript<p/>
-<p>utilizo esse espaço para<strong> minha organizaçao e compartilhamento dos meus projetos desenvolvidos 
+<p>volei<strong>futebol</strong>boliche<p/>
+<p>utilizo esse espaço para<strong> falar sobre esportes
 
 ##voce entrar
 <p>cada uma das atividades fsicas.</p>
-</html>
+</html> o esporte e fundamental para nossas vidas
+
+<p> bola ou sem bola, individual ou em equipe, a prática de esportes é uma das principais atividades físicas.
+gosto de esportes
+esportres. <p/
+
+</html.
